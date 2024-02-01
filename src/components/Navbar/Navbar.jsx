@@ -25,15 +25,15 @@ const Navbar = () => {
                         <li>
                             <a className='menu-item'>Habilidades</a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a className='menu-item'>Certificações</a>
-                        </li>
+                        </li> */}
                         <li>
                             <a className='menu-item'>Contato</a>
                         </li>
 
                         <button className="contact-btn" onClick={() => {}}>
-                        Contate-me
+                        Contrate-me
                         </button>
                     </ul>
 

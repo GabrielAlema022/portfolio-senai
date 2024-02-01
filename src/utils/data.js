@@ -20,18 +20,17 @@ export  const SKILLS = [
     },
 
     {
-        title:"Tools",
+        title:"Ferramentas",
         icon: "./images/tools-icon.png",
         skills: [
             { skill: "Git e Github", percentage: "25%" },
             { skill: "Visual Studio Code", percentage: "50%" },
-            // { skill: "Webpack", percentage: "60%" },
             { skill: "Design Responsivo", percentage: "25%" },
         ],
     },
 
     {
-        title:"Soft Skills",
+        title:"Habilidades",
         icon: "./images/soft-skills-icon.png",
         skills: [
             { skill: "Solução de problemas", percentage: "10%" },

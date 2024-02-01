@@ -19,21 +19,21 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
                 <li>
                     <a className="menu-item">Habilidades</a>
                 </li>
-                <li>
+                {/* <li>
                     <a className="menu-item">Certificados</a>
-                </li>
+                </li> */}
                 <li>
                     <a className="menu-item">Contato</a>
                 </li>
 
                 <button className="contact-btn" onClick={() => {}}>
-                contate-me
+                Contrate-me
                 </button>
             </ul>
         </div>
         </div>
         </>
-    )
-}
+    );
+};
 
-export default MobileNav
+export default MobileNav;

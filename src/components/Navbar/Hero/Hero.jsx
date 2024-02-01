@@ -7,7 +7,7 @@ const Hero = () => {
             <div className="hero-content">
                 <h2>Construindo experiências Digitais que inspiram</h2>
                 <p>
-                    Desenvolvedor front-end | Transformando ideias em soluções web visualmente impressionantes
+                    Sou Gabriel Oliveira de Paula, e estou me tornando um Desenvolvedor front-end | Transformando ideias em soluções web visualmente impressionantes
                 </p>
             </div>
 
